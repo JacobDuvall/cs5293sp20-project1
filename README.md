@@ -61,3 +61,36 @@ If the stats flag is turned on, then the stats of the removed words are all form
  
  #### download_nltk_stuff
  * These are nltk models necessary to run the program
+ 
+ #### process_file_flags(dirty_string, arguments)
+ - dirty_string to process
+ - arguments from terminal
+ - Process the file flags (name, gender, date, concept)
+ 
+ #### redact_names(old_string)
+ - dirty_string to process
+ - Redacts all names from the file using StanfordNERTagger
+ 
+ #### redact_genders(old_string)
+ - dirty_string to process
+ - Redact all genders and gendered words from the file
+
+#### redact_dates(old_string)
+- dirty string to process
+- redact all dates from the file
+
+#### redact_concepts(old_string, concept):
+- dirty string to process
+- concept to be redacted
+- redact a specified concept
+
+#### write_redacted_file(file_name, clean_string, directory)
+- file name to write
+- cleaned up string to write into file
+- directory for file
+- write the redacted file with new name to directory specified
+
+#### write_stats(stats, output)
+- stats dictionary
+- ooutput type
+- write the stats to stderr, stdout, or a file
