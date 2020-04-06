@@ -10,9 +10,13 @@ This program takes a text file and redacts sensitive information from the origin
 The process of the code is outlined and explained as follows:
 A user passes in an argument into the terminal via the command:
 
-python main.py --input demo_files/JimWalmsley.txt --output demo_files_redacted/ --names --genders --dates --concept state --stats stdout
+ - python main.py --input demo_files/JimWalmsley.txt --output demo_files_redacted/ --names --genders --dates --concept state --stats stdout
 OR
-pipenv run python main.py --input demo_files/JimWalmsley.txt --output demo_files_redacted/ --names --genders --dates --concept state --stats stdout
+ - pipenv run python main.py --input demo_files/JimWalmsley.txt --output demo_files_redacted/ --names --genders --dates --concept state --stats stdout
+OR 
+ - py main.py --input demo_files/JimWalmsley.txt --output demo_files_redacted/ --names --genders --dates --concept state --stats stdout
+
+python worked for me in pycharm, py worked for my in windows powershell, pipenv worked on linux; 
 
 WHERE the arguments are defined as:
 --input: a glob of files to be redacted
