@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+nltk = "*"
+argparse = "*"
+wikipedia = "*"
+os = "*"
+re = "*"
+glob = "*"
+sys = "*"
+pprint = "*"
+dateparser = "*"
+pyodbc = "*"
+
+[requires]
+python_version = "3.7"
