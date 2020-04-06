@@ -2,45 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b08787-0e0c-4b6a-8c2f-930dbecd9917" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COLLABORATORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_files/BarkleyMarathons.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_files/ComradesMarathon.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_files/JimWalmsley.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_files/manual.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gendered_words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/english.all.3class.distsim.crf.ser.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/NERDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.all.3class.distsim.prop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.conll.4class.distsim.crf.ser.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.conll.4class.distsim.prop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.muc.7class.distsim.crf.ser.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.muc.7class.distsim.prop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/example.serialized.ncc.ncc.ser.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/example.serialized.ncc.prop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/java.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/lib/joda-time.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/lib/jollyday-0.4.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/lib/stanford-ner-resources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner-gui.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner-gui.command" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner-gui.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample-conll-file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample-w-time.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample.ner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner-3.9.2-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner-3.9.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner-3.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test_files/concepts_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test_files/dates_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test_files/genders_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test_files/names_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_test_files/stats_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_files_redacted/JimWalmsley.txt.redacted" beforeDir="false" afterPath="$PROJECT_DIR$/demo_files_redacted/JimWalmsley.txt.redacted" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +19,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stderr">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_test_files/stats_test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_files_redacted/JimWalmsley.txt.redacted">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_test_files/concepts_test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_test_files/dates_test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,20 +101,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3009">
-              <caret line="177" selection-start-line="177" selection-end-line="177" />
+            <state relative-caret-position="221">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="25" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo_files/BarkleyMarathons.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="112" selection-start-line="4" selection-start-column="112" selection-end-line="4" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -110,24 +127,20 @@
       <list>
         <option value="$PROJECT_DIR$/project_1.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/demo_test_files/names_test" />
+        <option value="$PROJECT_DIR$/demo_test_files/genders_test.txt" />
+        <option value="$PROJECT_DIR$/demo_test_files/dates_test.txt" />
+        <option value="$PROJECT_DIR$/demo_test_files/concepts_test.txt" />
+        <option value="$PROJECT_DIR$/demo_test_files/stats_test.txt" />
+        <option value="$PROJECT_DIR$/test_functions.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/cs5293sp20-project1.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="790" />
+    <option name="y" value="-15" />
+    <option name="width" value="974" />
+    <option name="height" value="579" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -147,6 +160,11 @@
               <item name="cs5293sp20-project1" type="462c0819:PsiDirectoryNode" />
               <item name="demo_files_redacted" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cs5293sp20-project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs5293sp20-project1" type="462c0819:PsiDirectoryNode" />
+              <item name="demo_test_files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -154,6 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -179,6 +198,35 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="test_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cs5293sp20-project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_functions" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -189,29 +237,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586205632705</updated>
-      <workItem from="1586205637121" duration="505000" />
+      <workItem from="1586205637121" duration="2825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="505000" />
+    <option name="totallyTimeSpent" value="2825000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -226,6 +274,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cs5293sp20_project1$test_functions.coverage" NAME="test_functions Coverage Results" MODIFIED="1586208268347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo_files/BarkleyMarathons.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -234,31 +285,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gendered_words.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/project_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3009">
-          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        <state relative-caret-position="221">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gendered_words.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_files_redacted/JimWalmsley.txt.redacted">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/setup.cfg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo_test_files/genders_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_test_files/names_test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_test_files/concepts_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_test_files/dates_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stderr">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="27" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_test_files/stats_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_files_redacted/JimWalmsley.txt.redacted">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
