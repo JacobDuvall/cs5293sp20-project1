@@ -52,7 +52,7 @@ If the stats flag is turned on, then the stats of the removed words are all form
  
  To run the test file, execute command: pipenv run python -m pytest.
  
- ### Summary of all functions:
+# Summary of all functions:
  #### main.py
  ##### main(arguments)
  - arguments from terminal
@@ -98,3 +98,7 @@ If the stats flag is turned on, then the stats of the removed words are all form
 - stats dictionary
 - ooutput type
 - write the stats to stderr, stdout, or a file
+
+
+# Discussion to cover all the discussion points
+I am happy with how my program works overall. Names are accurately removed using the stanford model. This took a ton of work to set up and get working properly. Dates are removed well using the date parser. Sometimes they are a little liberal in what they remove but I think this is better than the alternative and writing regular expressions for everything else would under redact and be too time consuming. The gender list is a little long but it removes genders. And for concepts, I like my implementation of removing sentences with synonyms of a concept. Given more time I was working to implemenent a function to remove phone numbers using regular expression. 
