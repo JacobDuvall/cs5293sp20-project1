@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1b08787-0e0c-4b6a-8c2f-930dbecd9917" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/COLLABORATORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_files/BarkleyMarathons.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_files/ComradesMarathon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_files/JimWalmsley.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_files/manual.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gendered_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/english.all.3class.distsim.crf.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/NERDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.all.3class.distsim.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.conll.4class.distsim.crf.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.conll.4class.distsim.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.muc.7class.distsim.crf.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/english.muc.7class.distsim.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/example.serialized.ncc.ncc.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/classifiers/example.serialized.ncc.prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/java.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/lib/joda-time.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/lib/jollyday-0.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/lib/stanford-ner-resources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner-gui.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner-gui.command" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner-gui.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/ner.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample-conll-file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample-w-time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample.ner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner-3.9.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner-3.9.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner-3.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford-ner/stanford-ner-2018-10-16/stanford-ner.jar" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.cfg">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gendered_words.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3009">
+              <caret line="177" selection-start-line="177" selection-end-line="177" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_files/BarkleyMarathons.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="112" selection-start-line="4" selection-start-column="112" selection-end-line="4" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project_1.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/cs5293sp20-project1.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cs5293sp20-project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs5293sp20-project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs5293sp20-project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs5293sp20-project1" type="462c0819:PsiDirectoryNode" />
+              <item name="demo_files_redacted" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jdale\OneDrive\Desktop\project1\cs5293sp20-project1" />
+      <recent name="C:\Users\jdale\OneDrive\Desktop\project1\cs5293sp20-project1\stanford-ner" />
+      <recent name="C:\Users\jdale\OneDrive\Desktop\project1\cs5293sp20-project1\demo_files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b08787-0e0c-4b6a-8c2f-930dbecd9917" name="Default Changelist" comment="" />
+      <created>1586205632705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586205632705</updated>
+      <workItem from="1586205637121" duration="505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="505000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo_files/BarkleyMarathons.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="112" selection-start-line="4" selection-start-column="112" selection-end-line="4" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3009">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gendered_words.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_files_redacted/JimWalmsley.txt.redacted">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
