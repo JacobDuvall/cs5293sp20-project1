@@ -1,4 +1,4 @@
-# cs5293sp20-project1
+# The Redactor
 # Author: Jacob Duvall
 
 
